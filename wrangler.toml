@@ -5,11 +5,11 @@ pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
 GITHUB_CLIENT_ID = "Ov23liAj64XnUnYXkDEQ"
-GITHUB_CLIENT_SECRET = "b5055fa0e141c13ace8580d22fb566e4c16230d8"
-GITHUB_OWNER = "AT-Aires"
-GITHUB_REPO = "NS"
-GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://ns.995993.xyz/api/auth"
-NEXT_PUBLIC_API_URL= "https://ns.995993.xyz/"
-NEXTAUTH_SECRET = "NGVnxzuSYasXP5DoiOl7gq3w1MWE0TLB"
+GITHUB_CLIENT_SECRET = b5055fa0e141c13ace8580d22fb566e4c16230d8
+GITHUB_OWNER = AT-Aires
+GITHUB_REPO = NS
+GITHUB_BRANCH = main
+NEXTAUTH_URL = https://ns.995993.xyz/api/auth
+NEXT_PUBLIC_API_URL= https://ns.995993.xyz/
+NEXTAUTH_SECRET = NGVnxzuSYasXP5DoiOl7gq3w1MWE0TLB
 
