@@ -10,5 +10,6 @@ GITHUB_OWNER = "AT-Aires"
 GITHUB_REPO = "NS"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://ns.995993.xyz/api/auth"
-NEXT_PUBLIC_API_URL="https://ns.995993.xyz/"
+NEXT_PUBLIC_API_URL= "https://ns.995993.xyz/"
+NEXTAUTH_SECRET = "NGVnxzuSYasXP5DoiOl7gq3w1MWE0TLB"
 
